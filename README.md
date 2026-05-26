@@ -1,4 +1,4 @@
-# FinStack Ecosystem
+# FinStack Research
 
 Financial AI should do more than optimize returns.
 
@@ -53,19 +53,20 @@ FinStack explores this architecture.
 
 ---
 
-## Portfolio Architecture
+## FinStack System Architecture
 
-The repositories in this portfolio function as integrated **system components** of this unified financial operating system:
+The repositories in this portfolio function as integrated system components of a unified AI-native financial operating system:
 
 | System Component | Repository | Function |
 |---|---|---|
-| **Research Layer** | `quantitative-trading-lab` | Quantitative strategy experimentation and base microstructure research |
-| **Strategy Layer** | `maxdama-trading` | Converting academic research anomalies into systematic strategy parameters |
-| **Reasoning Layer** | `finstack-skills` | Central AI-native financial reasoning and governance pipeline layer |
-| **Governance & Execution** | `institutional-trade-harness` | Systematic strategy validation, pre-trade gates, and compliance oversight |
-| **Risk Intelligence** | `ai-risk-copilot` | Explainable investor-risk analysis and behavioral safety protection |
-| **Institutional Analysis** | `institutional-finance-skills` | Claude-based institutional workflows, macro themes, and sector rotations |
-| **Decision Intelligence** | `hyperbot-ai-trading-claude-skill` | Explainable AI reasoning layer for risk-aware financial market interpretation |
+| Quantitative Research Layer | `quantitative-trading-lab` | Quantitative strategy experimentation, market microstructure analysis, and foundational trading research |
+| Systematic Strategy Layer | `maxdama-trading` | Translating academic market anomalies into systematic strategy frameworks and execution parameters |
+| Financial Reasoning Layer | `finstack-skills` | Central AI-native reasoning and orchestration layer for quantitative research governance and financial workflows |
+| Governance & Execution Layer | `institutional-trade-harness` | Strategy validation, pre-trade governance gates, compliance-aware execution controls, and audit oversight |
+| Risk Intelligence Layer | `ai-risk-copilot` | Explainable investor-risk analysis, behavioral finance safeguards, and retail investor protection mechanisms |
+| Institutional Intelligence Layer | `institutional-finance-skills` | Institutional-grade financial workflows including macro analysis, sector rotation, and portfolio intelligence |
+| Market Decision Intelligence Layer | `hyperbot-ai-trading-claude-skill` | Explainable AI reasoning framework for risk-aware market interpretation and financial decision support |
+
 
 ---
 
